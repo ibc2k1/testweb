@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.food-img{
+    max-width:40%;
+    display:block;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    margin: 0 auto;
+}
+
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+input[type="button"] {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  border-color:rgba(8, 4, 238, 0.521);
+  border-radius: 12px;
+  font-size: 20px;
+  color: rgba(8, 4, 238, 0.767);
+  background-color: rgb(212, 226, 247); 
+}
